@@ -1,10 +1,10 @@
 # Curriculo
 
-**Nome:**  Vitor Hugo da Silva Santos
+# **Nome:**  Vitor Hugo da Silva Santos
 
-#**gmail:** vitorhugosilvasantos03@gmail.com
+# **gmail:** vitorhugosilvasantos03@gmail.com
 
-#**Cursando**
+# **Cursando**
 
 - 2 Ano do ensino medio no sesi
 -Tecnologia da informação(T.I) no senai
