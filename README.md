@@ -38,4 +38,4 @@ Busco uma oportunidade de emprego na área da tecnologia, sou bom trabalhando em
 
 **Experiências**
 
-Atualmente trabalho no Ednaldo rações, estou lá a cerca de 18 meses.
+Atualmente trabalho no Ednaldo rações, estou la des de 24/05/2025 - 
