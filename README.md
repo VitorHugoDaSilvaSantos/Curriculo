@@ -4,18 +4,18 @@
 
 #**gmail:** vitorhugosilvasantos03@gmail.com
 
-**Cursando**
+#**Cursando**
 
 - 2 Ano do ensino medio no sesi
 -Tecnologia da informação(T.I) no senai
 
 
- **Objetivo**
+ # **Objetivo**
 
 Busco uma oportunidade de emprego na área da tecnologia, sou bom trabalhando em equipe
 
 
-**Cursos feitos**
+# **Cursos feitos**
 
 -Excel Básico (20 horas)
 
@@ -36,6 +36,6 @@ Busco uma oportunidade de emprego na área da tecnologia, sou bom trabalhando em
 -Desvendando a Descarbonização (20 horas)
 
 
-**Experiências**
+# **Experiências**
 
 Atualmente trabalho no Ednaldo rações, estou la des de 24/05/2025 - 
