@@ -15,7 +15,7 @@
 Busco uma oportunidade de emprego na área da tecnologia, sou bom trabalhando em equipe
 
 
-**cursos feitos**
+**Cursos feitos**
 
 -Excel Básico
 -Segurança no Trabalho
