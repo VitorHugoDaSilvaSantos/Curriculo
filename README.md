@@ -17,23 +17,23 @@ Busco uma oportunidade de emprego na área da tecnologia, sou bom trabalhando em
 
 **Cursos feitos**
 
--Excel Básico
+-Excel Básico (20 horas)
 
--Segurança no Trabalho
+-Segurança no Trabalho (14 horas)
 
--FluêncIA - Fundamentos da Inteligência Artificial
+-FluêncIA - Fundamentos da Inteligência Artificial (8 horas)
 
--Ética na Inteligência Artificial
+-Ética na Inteligência Artificial (4 horas)
 
--Por dentro da Segurança Cibernética
+-Por dentro da Segurança Cibernética (4 horas)
 
--Fundamentos e Ações da Economia Circular
+-Fundamentos e Ações da Economia Circular (4 horas)
 
--Ciclos de Retorno para a Economia Circular
+-Ciclos de Retorno para a Economia Circular (4 horas)
 
--Acelerando a Transição para a Economia Circular
+-Acelerando a Transição para a Economia Circular (4 horas)
 
--Desvendando a Descarbonização
+-Desvendando a Descarbonização (20 horas)
 
 
 **Experiências**
