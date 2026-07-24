@@ -18,14 +18,23 @@ Busco uma oportunidade de emprego na área da tecnologia, sou bom trabalhando em
 **Cursos feitos**
 
 -Excel Básico
+
 -Segurança no Trabalho
+
 -FluêncIA - Fundamentos da Inteligência Artificial
+
 -Ética na Inteligência Artificial
+
 -Por dentro da Segurança Cibernética
+
 -Fundamentos e Ações da Economia Circular
+
 -Ciclos de Retorno para a Economia Circular
+
 -Acelerando a Transição para a Economia Circular
+
 -Desvendando a Descarbonização
+
 
 **Experiências**
 
